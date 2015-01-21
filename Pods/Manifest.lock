@@ -1,0 +1,10 @@
+PODS:
+  - FastCoding (3.1.1)
+
+DEPENDENCIES:
+  - FastCoding (~> 3.1)
+
+SPEC CHECKSUMS:
+  FastCoding: f42caad275c4d3851f12d6df6db9555e008d38ff
+
+COCOAPODS: 0.35.0
